@@ -2,7 +2,7 @@
 
 Developer with experience in Java, Python, JavaScript, React.js, C#, HTML, and CSS. Focused on building systems that handle real-world data with reliability and performance. Currently developing a meteorological analysis platform that integrates radar, satellite, and atmospheric data.
 
-Interest in data science and applied meteorology, building tools for analysis and decision-making based on real-world weather data.
+Interest in data science and applied meteorology, building tools for analysis.
 
 ---
 
